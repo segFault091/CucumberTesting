@@ -28,3 +28,4 @@ Feature: Title of your feature
       | value | status  |
       |     4 | success |
       |     7 | fail    |
+      |     7 | success |
